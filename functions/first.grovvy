@@ -1,8 +1,0 @@
-void call(){
-    
-                   
-    stage("SonarQube: Static Code Analysis1"){
-        println "static code analysis from the sonarqube library"
-        //  var1.build("php build")
-    }
-}
